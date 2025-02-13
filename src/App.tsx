@@ -22,11 +22,11 @@ const track = async () => {
 function App() {
   const steps = [
     {
-      content: "Heyyyyy, pretty girl.",
+      content: "Heyyyyy Princess.",
       image: "/character/one.png",
     },
     {
-      content: `Hi Princess, How are you doing.
+      content: `How are you doing.
       it looks weird but dont worry lol..
       `,
       image: "/character/two.png",
@@ -158,7 +158,7 @@ hold your hands, and look into your pretty eyes.`,
               }}
               className="bg-white text-[#FFC5D3] py-3 text-xl rounded-xl w-full mt-2 font-semibold"
             >
-              No
+              Yes
             </button>
           </>
         )}
